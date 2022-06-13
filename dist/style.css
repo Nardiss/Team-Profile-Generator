@@ -1,0 +1,57 @@
+/* Header Styling */
+header {
+    color: #fff;
+    background-color: #eb5353;
+    font-size: 3em;
+  }
+  
+  /* Main Section Styling */
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px;
+    padding: 10px;
+  }
+  
+  .roster-row {
+    flex-direction: row;
+  }
+  
+  /* Card Styling */
+  .card {
+    padding: 10px;
+    margin: 15px;
+  }
+  
+  .card-header {
+    color: #fff;
+    background-color: #00334e;
+  }
+  
+  .list-group {
+    color: #000000;
+  }
+  
+  .list-group-item {
+    white-space: nowrap;
+    overflow: visible;
+  }
+  
+  a {
+    color: #455d7a;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #233142;
+  }
+  
+  /* Responsive Styling*/
+  /* MEDIA QUERY FOR TABLETS AND SMALLER */
+  @media screen and (max-width: 768px) {
+    /* this will be applied on any screen between 768px and 575px */
+    .roster-row {
+      flex-direction: column;
+      margin: 0 auto;
+    }
+  }
