@@ -8,7 +8,6 @@ A Node.js application to create a simple webpage to feature your teams profile.
 
 * Installation
 * Usage
-    * Video Demo
     * Screenshots
 * Tests
 
@@ -27,7 +26,7 @@ After cloning the repo and installing the required npm packages, use the command
 ## Screenshots
 App Screenshot The application runs from the command line as seen above.
 
-![ScreenShot](/ScreenShot.png)
+![ScreenShot](/Screenshot.png)
 
 Page Screenshot An example of the generated team roster page.
 
