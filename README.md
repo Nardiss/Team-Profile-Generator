@@ -27,6 +27,8 @@ After cloning the repo and installing the required npm packages, use the command
 ## Screenshots
 App Screenshot The application runs from the command line as seen above.
 
+![ScreenShot]()
+
 Page Screenshot An example of the generated team roster page.
 
 ## Tests
